@@ -1,0 +1,32 @@
+{ 
+  "continue": {
+    "intent_continue": {
+    "desired time": 120,
+    "acceptable interval": 0.5,
+    "desired turns": {}
+    },
+  "blind_continue": 
+  {"desired time": 120,
+  "acceptable interval": 0.2,
+  "desired turns": {}
+}},
+ "hangup": {
+    "_":{
+  "desired time": 3,
+  "acceptable interval": 0.95,
+  "desired turns": {}
+}}, 
+ "repeat": {
+   "moderate_repeat": {
+    "desired time": 120,
+    "acceptable interval": 0.5,
+    "desired turns": {}
+    },
+  "blind_repeat": 
+  {"desired time": 120,
+  "acceptable interval": 0.2,
+  "desired turns": {}
+
+}}
+
+}
